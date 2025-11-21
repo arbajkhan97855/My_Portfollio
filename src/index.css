@@ -38,7 +38,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 60vh !important;
+    height: 80vh !important;
 }
 .home .left{
     background-color: black;
