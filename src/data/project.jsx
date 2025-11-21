@@ -4,7 +4,7 @@ import Dgr_Academy from "../assets/Project/dgr_academy.jpg"
 import e_commerce1 from "../assets/Project/e-commerse_demo.jpg"
 import e_commerce2 from "../assets/Project/e-commerse_demo-2.jpg"
 import to_do_app from "../assets/Project/To-do-app.jpg"
-// import portfollio from "../assets/Project/Portfollio.jpg"
+import portfollio from "../assets/Project/portfollio.jpg"
 
 export const Projects = [
      {
@@ -26,9 +26,9 @@ export const Projects = [
     {
     "id": 3,
     "title": "Portfollio Website",
-    "imageSrc": `${restaurant}`,
+    "imageSrc": `${portfollio}`,
     "description": "This is a project made with complete React js, Node js and Bootstap.",
-    "demo": "https://mk-restorants.netlify.app/",
+    "demo": "https://portfolliowebmy.netlify.app/",
     "source": "https://github.com/"
   },
    {

@@ -27,7 +27,7 @@ export function Hero(){
             </div>
           </div>
           <div className="left order-2 order-md-1" data-aos="fade-up-right" data-aos-duration="1000">
-            <h1 ref={typedRef}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptates.</h1>
+            <h1 ref={typedRef}></h1>
           <a href={resume} className="btn btn-outline-warning my-3"  download="Arbaj_resume.pdf">Download Resume</a>
         </div>
          
