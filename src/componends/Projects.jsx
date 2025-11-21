@@ -25,7 +25,7 @@ export function Project() {
                                                 <a href={project.demo} className="btn btn-primary mx-3">
                                                    Demo
                                                 </a>
-                                                 <a href={project.demo} className="btn btn-warning">
+                                                 <a href={project.source} className="btn btn-warning">
                                                    Code
                                                 </a>
                                             </div>
