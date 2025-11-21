@@ -39,7 +39,7 @@ a {
     justify-content: space-between;
     align-items: center;
     height: 80vh !important;
-    margin-bottom: 50px;
+   
 }
 .home .left{
     background-color: black;
@@ -175,6 +175,7 @@ a {
     display: block !important;
     padding-top: 30px;
     height: fit-content;
+    margin-bottom: 50px;
 }
 .home .left{
      width: 520px !important;
