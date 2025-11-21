@@ -5,6 +5,8 @@ import e_commerce1 from "../assets/Project/e-commerse_demo.jpg"
 import e_commerce2 from "../assets/Project/e-commerse_demo-2.jpg"
 import to_do_app from "../assets/Project/To-do-app.jpg"
 import portfollio from "../assets/Project/portfollio.jpg"
+import QA_img from "../assets/Project/Q&A.jpeg"
+
 
 export const Projects = [
      {
@@ -31,8 +33,16 @@ export const Projects = [
     "demo": "https://portfolliowebmy.netlify.app/",
     "source": "https://github.com/"
   },
-   {
+  {
     "id": 4,
+    "title": "QA- React & Javascript",
+    "imageSrc": `${QA_img}`,
+    "description": "This is a project made with complete React js, mongodb and Node js",
+    "demo": "https://qa-javascript-react.netlify.app/",
+    "source": "https://github.com/"
+  },
+   {
+    "id": 5,
     "title": "E-Commerce Demo-1",
     "imageSrc": `${e_commerce1}`,
     "description": "This is a project made with complete React js, mongodb and Node js",
@@ -40,7 +50,7 @@ export const Projects = [
     "source": "https://github.com/"
   },
 {
-    "id": 5,
+    "id": 6,
     "title": "E-Commerce Demo-2",
     "imageSrc": `${e_commerce2}`,
     "description": "This is a project made with complete React js, mongodb and Node js",
@@ -48,7 +58,7 @@ export const Projects = [
     "source": "https://github.com/"
   },
    {
-    "id": 5,
+    "id": 7,
     "title": "To-Do-App",
     "imageSrc": `${to_do_app}`,
     "description": "This is a project made with complete React js and Bootstap.",
