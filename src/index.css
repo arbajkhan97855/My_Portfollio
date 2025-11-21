@@ -161,6 +161,7 @@ a {
     align-items: center;
     border-radius: 100%;
     border: 2px solid yellow;
+    padding: 5px;
 }
 .contact-icon .item:hover{
     background-color: var(--bg-color);
@@ -189,7 +190,7 @@ a {
 }
 .home .right .img img{
     margin-left: 180px;
-    width: 250px;
+    width: 300px;
     height: 300px;
 } 
 
@@ -208,5 +209,8 @@ a {
 }
 .contact-icon{
     margin-left: 250px;
+}
+.contact-icon .item{
+    padding: 10px;
 }
 }

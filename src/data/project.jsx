@@ -41,7 +41,7 @@ export const Projects = [
   },
 {
     "id": 5,
-    "title": "E-Commerce Demo-1",
+    "title": "E-Commerce Demo-2",
     "imageSrc": `${e_commerce2}`,
     "description": "This is a project made with complete React js, mongodb and Node js",
     "demo": "https://mk-general-store.netlify.app/",
