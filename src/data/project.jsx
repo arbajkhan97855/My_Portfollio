@@ -38,7 +38,7 @@ export const Projects = [
     "title": "QA- React & Javascript",
     "imageSrc": `${QA_img}`,
     "description": "This is a project made with complete React js, mongodb and Node js",
-    "demo": "https://qa-javascript-react.netlify.app/",
+    "demo": "https://qa-javascript-and-react.netlify.app/",
     "source": "https://github.com/"
   },
    {
