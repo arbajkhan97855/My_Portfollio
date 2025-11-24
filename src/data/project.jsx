@@ -6,7 +6,7 @@ import e_commerce2 from "../assets/Project/e-commerse_demo-2.jpg"
 import to_do_app from "../assets/Project/To-do-app.jpg"
 import portfollio from "../assets/Project/portfollio.jpg"
 import QA_img from "../assets/Project/Q&A.jpeg"
-
+import Wrix_studio from "../assets/Project/wrix_studio.jpg"
 
 export const Projects = [
      {
@@ -63,6 +63,14 @@ export const Projects = [
     "imageSrc": `${to_do_app}`,
     "description": "This is a project made with complete React js and Bootstap.",
     "demo": "https://todo-list-ak786.netlify.app/",
+    "source": "https://github.com/"
+  },
+     {
+    "id": 8,
+    "title": "Wrix_Studio",
+    "imageSrc": `${Wrix_studio}`,
+    "description": "This is a project made with complete React js and Bootstap.",
+    "demo": "https://wrix-studio.netlify.app/",
     "source": "https://github.com/"
   },
 ]
